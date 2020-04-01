@@ -1,0 +1,18 @@
+#include<iostream>
+Using namespace std;
+Int main()
+{
+Int a,b,c;
+Cout<<"Enter first number"<<endl;
+Cin>>a;
+
+Cout<<"Enter second number"<<endl;
+Cin>>b;
+
+c=(a+b);
+//Display result
+
+Cout<<"Result="<<c<<endl;
+
+return 0;
+}
